@@ -21,9 +21,9 @@ Write a program to find the eigenvalues and associated eigenvectors for the matr
 ```
 ## Program:
 ```
-#program to find the solution for the given linear equation
-#Developed by:KAVYA T
-#RegisterNumber:2305003004
+program to find the solution for the given linear equation
+Developed by:KAVYA T
+RegisterNumber:2305003004
 ```
 ```python
 import numpy as np
