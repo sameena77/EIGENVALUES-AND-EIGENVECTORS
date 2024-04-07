@@ -16,9 +16,9 @@ Use np.linalg.eig(A) to find the eigenvalues and eigenvectors.
 print and end the program.
 
 ## Question:
-```
+
 Write a program to find the eigenvalues and associated eigenvectors for the matrix [2,2],[1,3]
-```
+
 ## Program:
 ```
 program to find the solution for the given linear equation
