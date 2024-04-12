@@ -26,13 +26,14 @@ RegisterNumber:2305002019
 ```
 ```python
 import numpy as np
-A=np.array([[2,2],[1,-3]])
+A=np.array([[2,2],[1,3]])
 values,vector=np.linalg.eig(A)
 print("Eigenvalues are {} and Eigenvectors are {}".format(values,vector))
 ```
 
 ## Output:
-![Screenshot (54)](https://github.com/sameena77/EIGENVALUES-AND-EIGENVECTORS/assets/155620541/ff59a8c5-589d-41df-b288-7dfbef212882)
+![Screenshot (55)](https://github.com/sameena77/EIGENVALUES-AND-EIGENVECTORS/assets/155620541/64773fa1-7b8b-438d-a400-0a4fc7d16312)
+
 
 
 ## Result:
